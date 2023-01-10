@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev2-test-package"
+  site-url: "https://hoangthienan95.github.io/nbdev2-test-package"
+  description: "test package"
+  repo-branch: main
+  repo-url: "https://github.com/hoangthienan95/nbdev2-test-package"
